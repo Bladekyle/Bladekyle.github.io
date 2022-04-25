@@ -27,6 +27,12 @@ url: "https://bladekyle.github.io" # the base hostname & protocol for your site,
 twitter_username: Bladekyle_
 github_username:  Bladekyle
 
+author: Kyle Humphries
+
+#Added a copyright. The symbol and year will be added automatically.
+copyright: "Bladekyle"
+logo: /images/logo.png
+
 # Build settings
 # Copied the theme locally to make custom changes.
 # theme: minima
